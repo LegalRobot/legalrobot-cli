@@ -1,0 +1,33 @@
+{
+  "name": "legalrobot-cli",
+  "version": "0.0.1",
+  "description": "The official command line client for Legal Robot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LegalRobot/legalrobot-cli.git"
+  },
+  "keywords": [
+    "legal",
+    "robot",
+    "legal",
+    "law",
+    "contract",
+    "artificial",
+    "intelligence",
+    "ai",
+    "machine",
+    "learning",
+    "ml",
+    "cli"
+  ],
+  "author": "Legal Robot <hello@legalrobot.com> (https://www.legalrobot.com)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/LegalRobot/legalrobot-cli/issues"
+  },
+  "homepage": "https://github.com/LegalRobot/legalrobot-cli#readme"
+}
